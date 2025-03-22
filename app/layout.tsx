@@ -9,9 +9,9 @@ import { ThemeProvider } from "@/components/theme-provider"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "HackFest 2025 - The Ultimate Hackathon Experience",
+  title: "BurnBrain 2025 - The Ultimate Hackathon Experience",
   description: "Join us for the most exciting hackathon of the year. Build, learn, and connect with fellow developers.",
-    generator: 'v0.dev'
+  generator: 'CSS'
 }
 
 export default function RootLayout({
